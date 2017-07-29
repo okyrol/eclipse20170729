@@ -8,6 +8,8 @@ public class Demo01 {
 		System.out.println("I am testing you, git!");
 
 		System.out.println("I am testing you, git! second");
+
+		System.out.println("I am testing you, git! thrid");
 		
 	}
 	
